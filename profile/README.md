@@ -1,6 +1,4 @@
-![](banner.png)
-
-
+![](https://github.com/NUAA-Open-Source/.github/raw/master/profile/banner.png)
 
 <!--
 
